@@ -1,1 +1,3 @@
-# CSE-232
+College of Engineering
+Department of Computer Science
+CSE 232: Introduction to Programming II
